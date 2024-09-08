@@ -15,5 +15,5 @@
 To install this project, follow these steps:
 1. Clone the repository using `git clone https://github.com/username/project0.git`
 2. Navigate to the project directory using `cd project0`
-3. Install any necessary dependencies using `pip install`
+3. Install any necessary dependencies using `pip install -r requirements`
 
